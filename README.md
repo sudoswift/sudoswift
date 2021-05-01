@@ -1,2 +1,2 @@
-SwiftUI
-Django
+ - SwiftUI
+ - Django
