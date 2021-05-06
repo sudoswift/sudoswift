@@ -4,8 +4,7 @@
  - Check [HERE](https://github.com/sudoswift/SwiftUI_Practice)
 
 # 📝 Django
-
- - Not start yet 
+ 
  - Check [HERE](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
 # 📝 Algorithm
