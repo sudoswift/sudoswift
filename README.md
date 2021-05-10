@@ -9,7 +9,8 @@
 
 # 📝 Algorithm
 
- - Not start yet
+ - Start study from 2021/05/10
+ - Check [Here](https://github.com/sudoswift/python_algorithm)
 
 
 # 📝 MySQL
