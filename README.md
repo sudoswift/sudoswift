@@ -13,7 +13,7 @@
  - Check [Here](https://github.com/sudoswift/python_algorithm)
 
 
-# 📝 MySQL
+# 📝 DATABASE
 
  - Start study from 2021/05/03
  - Check [HERE](https://www.notion.so/MySQL-28594deb71cf45b5adf53a0a049a8fd3)
