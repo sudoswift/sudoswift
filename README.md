@@ -2,7 +2,7 @@
 
  - Start study from 2021/05/03
  - Check overall [HERE](https://github.com/sudoswift/SwiftUI_Practice)
- - [SwiftUI Clone CodingProject _1](https://github.com/sudoswift/SwiftUI_clone_coding_1)
+ - [First SwiftUI Clone CodingProject](https://github.com/sudoswift/SwiftUI_clone_coding_1)
 
 # 📝 Django
  
