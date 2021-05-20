@@ -4,17 +4,17 @@
  - Check overall [HERE](https://github.com/sudoswift/SwiftUI_Practice)
  - [First SwiftUI Clone CodingProject](https://github.com/sudoswift/SwiftUI_clone_coding_1)
 
-# 📝 Django
+# <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" width="50rem" height="50rem">Django
  
  - Check [HERE](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
-# 📝 Algorithm
+#  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577524878/noticon/gzl7ru4i4vv3phyv34y3.png" width="50rem" height="50rem">Algorithm 
 
  - Start study from 2021/05/10
  - Check [Here](https://github.com/sudoswift/python_algorithm)
 
 
-# 📝 DATABASE
+# <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603423163/noticon/az0cvs28lm7gxoowlsva.png" width="50rem" height="50rem"> DATABASE 
 
  - Start study from 2021/05/03
  - Check [HERE](https://www.notion.so/MySQL-28594deb71cf45b5adf53a0a049a8fd3)
