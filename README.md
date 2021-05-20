@@ -14,7 +14,7 @@
  - Check [Here](https://github.com/sudoswift/python_algorithm)
 
 
-# <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603423163/noticon/az0cvs28lm7gxoowlsva.png" width="50rem" height="50rem"> DATABASE 
+# <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603423163/noticon/az0cvs28lm7gxoowlsva.png" width="50rem" height="50rem"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1579928281/noticon/wfykhuhsg5hfddh6ok0o.png" width="50rem" height="50rem"> DATABASE 
 
  - Start study from 2021/05/03
  - Check [HERE](https://www.notion.so/MySQL-28594deb71cf45b5adf53a0a049a8fd3)
