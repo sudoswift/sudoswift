@@ -5,7 +5,7 @@
  - Check overall [HERE](https://github.com/sudoswift/SwiftUI_Practice)
  - [First SwiftUI Clone CodingProject](https://github.com/sudoswift/SwiftUI_clone_coding_1)
 
-# <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" width="50rem" height="50rem"> Django
+# <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" width="50rem" height="50rem"> 
  
  - Check [HERE](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
