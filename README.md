@@ -30,5 +30,6 @@
 
 ## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914817/noticon/qwbwpobwhimzw1e3ip1h.png" width="50rem" height="50rem">
 
- - [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ - [grammar cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  - [Emoji cheat sheet](https://github.com/sudoswift/emoji-cheat-sheet)
+ - [Notiocon cheat sheet](https://noticon.tammolo.com/)
