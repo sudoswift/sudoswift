@@ -6,7 +6,7 @@
  - Check overall [HERE](https://github.com/sudoswift/SwiftUI_Practice)
  - [First SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_1)
  - [Second SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_2)
- - ["Calculator in IPhone" Clone Coding Project](https://github.com/sudoswift/IPhone_Cal_CloneCoding)
+ - [iPhone "Calculator App" Clone Coding Project](https://github.com/sudoswift/IPhone_Cal_CloneCoding)
  - [SwiftUI Custom Button Style](https://github.com/sudoswift/SwiftUI_ButtonStyle)
  - [SwiftUI TextField & SecureField](https://github.com/sudoswift/Text_Secure_Field)
  - [SwiftUI Toast & Popup](https://github.com/sudoswift/SwiftUI-Toast-Popup-tutorial)
