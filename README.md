@@ -4,8 +4,8 @@
 
  - Start study from 2021/05/03
  - Check overall [HERE](https://github.com/sudoswift/SwiftUI_Practice)
- - [First SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_1)
- - [Second SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_2)
+ - [1st SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_1)
+ - [2nd SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_2)
  - [iPhone "Calculator App" Clone Coding Project](https://github.com/sudoswift/IPhone_Cal_CloneCoding)
  - [SwiftUI Custom Button Style](https://github.com/sudoswift/SwiftUI_ButtonStyle)
  - [SwiftUI TextField & SecureField](https://github.com/sudoswift/Text_Secure_Field)
