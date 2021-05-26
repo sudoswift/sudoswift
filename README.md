@@ -4,6 +4,7 @@
 
  - Start study from 2021/05/03
  - Check overall [HERE](https://github.com/sudoswift/SwiftUI_Practice)
+ - [Use SwiftUI in iPad Playgrounds](https://www.notion.so/SwiftUI-in-iPad-Playgrounds-0689e74a8132493cb49c0f91d8b5dc4e)
  - [1st SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_1)
  - [2nd SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_2)
  - [iPhone "Calculator App" Clone Coding Project](https://github.com/sudoswift/IPhone_Cal_CloneCoding)
