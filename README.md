@@ -9,7 +9,7 @@
  - [iPhone "Calculator App" Clone Coding Project](https://github.com/sudoswift/IPhone_Cal_CloneCoding)
  - [SwiftUI Custom Button Style](https://github.com/sudoswift/SwiftUI_ButtonStyle)
  - [SwiftUI TextField & SecureField](https://github.com/sudoswift/Text_Secure_Field)
- - [SwiftUI Toast & Popup](https://github.com/sudoswift/SwiftUI-Toast-Popup-tutorial)
+ - [SwiftUI Toast & Popup](https://github.com/sudoswift/Toast_Popup_tutorial)
  - [iPhone "Settings App" Clone Coding Project(예정)]()
  - [iPhone "Text Editor App"(예정)]()
 
