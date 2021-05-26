@@ -10,7 +10,8 @@
  - [SwiftUI Custom Button Style](https://github.com/sudoswift/SwiftUI_ButtonStyle)
  - [SwiftUI TextField & SecureField](https://github.com/sudoswift/Text_Secure_Field)
  - [SwiftUI Toast & Popup](https://github.com/sudoswift/SwiftUI-Toast-Popup-tutorial)
- - [iPhone "Settings App" Clone Coding Project]()
+ - [iPhone "Settings App" Clone Coding Project(예정)]()
+ - [iPhone "Text Editor App"(예정)]()
 
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" width="50rem" height="50rem"> 
  
