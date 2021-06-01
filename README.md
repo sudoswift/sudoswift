@@ -13,6 +13,8 @@
  - [SwiftUI Toast & Popup](https://github.com/sudoswift/Toast_Popup_tutorial)
  - [SwiftUi Picker](https://github.com/sudoswift/SwiftUI_Picker)
  - [SwiftUI DeepLink](https://github.com/sudoswift/SwiftUI_DeepLink)
+ - [SwiftUI Menu](https://github.com/sudoswift/SwiftUI_Menu)
+ - [SwiftUI LazyVGrid](https://github.com/sudoswift/SwiftUI_LazyVGrid)
  - [iPhone "Settings App" Clone Coding Project(예정)]()
  - [iPhone "Text Editor App"(예정)]()
 
