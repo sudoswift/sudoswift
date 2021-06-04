@@ -17,8 +17,8 @@
  - [SwiftUI LazyVGrid](https://github.com/sudoswift/SwiftUI_LazyVGrid)
  - [SwiftUI Combine](https://github.com/sudoswift/SwiftUI_Combine)
  - [iPhone "Settings App" Clone Coding Project](https://github.com/sudoswift/SwiftUI_SettingsApp)
- - [iPhone "Text Editor App"(예정)]()
- - [iPhone "Message App" Clone Coding Project]()
+ - [iPhone "Message App" Clone Coding Project(예정)]()
+ - [iPhone "Kakao Talk App" Clone Coding Project(예정)]()
 
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" width="50rem" height="50rem"> 
  
