@@ -22,7 +22,7 @@
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" width="50rem" height="50rem"> 
  
  - Check [HERE](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
- - [Here](https://docs.djangoproject.com/en/3.2/topics/db/)
+ - [Here](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
 
 #  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577524878/noticon/gzl7ru4i4vv3phyv34y3.png" width="50rem" height="50rem"> Algorithm 
 
