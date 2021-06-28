@@ -28,7 +28,7 @@
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913552/noticon/xjarxsfmmcouhih40val.png" width="50rem" height="50rem"> 
  
  - Let's [Go](https://nomadcoders.co/go-for-beginners/lobby)
- - [Ropository](https://github.com/sudoswift/golang)
+ - [Repository](https://github.com/sudoswift/golang)
 
 #  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577524878/noticon/gzl7ru4i4vv3phyv34y3.png" width="50rem" height="50rem"> Algorithm 
 
