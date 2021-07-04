@@ -24,6 +24,7 @@
  - Check [HERE](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
  - [Here](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
  - [Django tutorial clone-coding](https://github.com/sudoswift/Djangoo)
+ - [Django Youtube clone coding](https://github.com/sudoswift/django2)
 
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913552/noticon/xjarxsfmmcouhih40val.png" width="50rem" height="50rem"> 
  
