@@ -33,7 +33,7 @@
 
 #  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577524878/noticon/gzl7ru4i4vv3phyv34y3.png" width="50rem" height="50rem"> Algorithm 
 
- - Start study from 2021/05/10
+ - Start study from 2021/05/03
  - Check [Youtube](https://www.youtube.com/playlist?list=PL7jH19IHhOLMdHvl3KBfFI70r9P0lkJwL)
  - Check [Here](https://www.youtube.com/playlist?list=PL7jH19IHhOLMdHvl3KBfFI70r9P0lkJwL)
 
