@@ -16,8 +16,9 @@
  - [SwiftUI Menu](https://github.com/sudoswift/SwiftUI_Menu)
  - [SwiftUI LazyVGrid](https://github.com/sudoswift/SwiftUI_LazyVGrid)
  - [SwiftUI Combine](https://github.com/sudoswift/SwiftUI_Combine)
- - [iPhone "Settings App" Clone Coding Project](https://github.com/sudoswift/SwiftUI_SettingsApp)
  - [iPhone "Kakao Talk App" Clone Coding Project](https://github.com/sudoswift/KakaoTalk)
+ - [iPhone "Settings App" Clone Coding Project](https://github.com/sudoswift/SwiftUI_SettingsApp)
+
 
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919539/noticon/j2h9ud10ssbihscfqlwy.png" width="50rem" height="50rem"> 
  
