@@ -28,6 +28,7 @@
  - [Django tutorial clone-coding](https://github.com/sudoswift/Djangoo)
  - [Django Youtube clone coding](https://github.com/sudoswift/django2)
  - [Django accounts prac](https://github.com/sudoswift/prac)
+ - [Python Course](https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
 
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913552/noticon/xjarxsfmmcouhih40val.png" width="50rem" height="50rem"> 
  
