@@ -55,3 +55,6 @@
  - [grammar cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  - [Emoji cheat sheet](https://github.com/sudoswift/emoji-cheat-sheet)
  - [Notiocon cheat sheet](https://noticon.tammolo.com/)
+
+## Notice
+- [구글 머신러닝](https://events.withgoogle.com/google-developers-mlb-kr-2021/apply/#content)
