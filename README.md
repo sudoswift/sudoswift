@@ -59,3 +59,4 @@
 ## Notice
 - [구글 머신러닝](https://events.withgoogle.com/google-developers-mlb-kr-2021/apply/#content)
 - [지원](https://docs.google.com/forms/u/0/d/e/1FAIpQLSdINa33BopV8fqtXk_hD7yzpkQ6NVBhFO7vDB8JZSoL6D4vSQ/formResponse) 결과 8월 첫째 
+- [신청](https://gg24.gg.go.kr/main/main.do)
