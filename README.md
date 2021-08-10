@@ -31,6 +31,7 @@
  - [Python Course](https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
  - [Search](https://www.youtube.com/watch?v=f0KepGxLcbY&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR&index=13)
  - [airbnb project](https://nomadcoders.co/airbnb-challenge)
+ - https://nomadcoders.co/python-for-beginners/lectures/134
 
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913552/noticon/xjarxsfmmcouhih40val.png" width="50rem" height="50rem"> 
  
