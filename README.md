@@ -28,8 +28,9 @@
  - [Django tutorial clone-coding](https://github.com/sudoswift/Djangoo)
  - [Django Youtube clone coding](https://github.com/sudoswift/django2)
  - [Django accounts prac](https://github.com/sudoswift/prac)
- - [Python Course](https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
+ - [Python Course 1](https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
  - [Search](https://www.youtube.com/watch?v=f0KepGxLcbY&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR&index=13)
+ - [Python Course 2](https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5)
 
 # <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913552/noticon/xjarxsfmmcouhih40val.png" width="50rem" height="50rem"> 
  
