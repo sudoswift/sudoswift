@@ -64,5 +64,5 @@
 ## Notice
 - https://www.youtube.com/watch?v=Nk_dGScimz8
 - https://vscodethemes.com/
-- [Screen cast](https://www.youtube.com/watch?v=6sPoml7PBQQ)
+- [vsc Screen cast](https://www.youtube.com/watch?v=6sPoml7PBQQ)
 
