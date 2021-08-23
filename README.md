@@ -27,7 +27,6 @@
  - [Here](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
  - [Django tutorial clone-coding](https://github.com/sudoswift/Djangoo)
  - [Django Youtube clone coding](https://github.com/sudoswift/django2)
- - [Django accounts prac](https://github.com/sudoswift/prac)
  - [Python Course 1](https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
  - [Python Course 2](https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5)
 
