@@ -61,6 +61,5 @@
  - [Notiocon cheat sheet](https://noticon.tammolo.com/)
 
 ## Notice
-- https://www.youtube.com/watch?v=Nk_dGScimz8
 - [vsc Screen cast](https://www.youtube.com/watch?v=6sPoml7PBQQ)
 
