@@ -62,5 +62,5 @@
 
 ## Notice
 - https://www.youtube.com/watch?v=mWBF4I_tj7A
-- https://www.youtube.com/watch?v=P-UNibp1FHg
+- [Git Version Control with VSCode](https://www.youtube.com/watch?v=P-UNibp1FHg)
 
