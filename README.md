@@ -61,6 +61,5 @@
  - [Notiocon cheat sheet](https://noticon.tammolo.com/)
 
 ## Notice
-- https://www.youtube.com/watch?v=mWBF4I_tj7A
 - [Git Version Control with VSCode](https://www.youtube.com/playlist?list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm)
 
