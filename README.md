@@ -18,6 +18,7 @@
  - [iPhone "Settings App" Clone Coding Project](https://github.com/sudoswift/SwiftUI_SettingsApp)
  - [iPhone "Kakao Talk App" Clone Coding Project](https://github.com/sudoswift/KakaoTalk)
  - [Combine]()
+ - [Course](https://www.youtube.com/watch?v=1BjRFQCROoM)
 
 
 
@@ -64,4 +65,5 @@
 - [Git Version Control with VSCode](https://www.youtube.com/playlist?list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm)
 - [Web Sockets&WebRTC](https://www.youtube.com/watch?v=5EhsjtBE7I4)
 - [apple event](https://www.apple.com/kr/apple-events/)
+- [Swift Course](https://www.youtube.com/watch?v=1BjRFQCROoM)
 
