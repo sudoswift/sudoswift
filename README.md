@@ -19,6 +19,7 @@
  - [iPhone "Kakao Talk App" Clone Coding Project](https://github.com/sudoswift/KakaoTalk)
  - [Combine]()
  - [Course](https://www.youtube.com/watch?v=1BjRFQCROoM)
+ - [course2](https://www.youtube.com/watch?v=wMvaxgXS7yQ)
 
 
 
