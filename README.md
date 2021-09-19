@@ -64,6 +64,6 @@
  - [Notiocon cheat sheet](https://noticon.tammolo.com/)
 
 ## Notice
-- [Web Sockets&WebRTC](https://www.youtube.com/watch?v=5EhsjtBE7I4)
+
 
 
