@@ -53,6 +53,7 @@
 
  - Start study from 2021/05/03
  - Check [HERE](https://www.notion.so/MySQL-28594deb71cf45b5adf53a0a049a8fd3)
+ - https://www.acmicpc.net/
 
 
 ## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914817/noticon/qwbwpobwhimzw1e3ip1h.png" width="50rem" height="50rem">
