@@ -65,6 +65,5 @@
 
 ## Notice
 -[Clang in Linuw](https://ggodong.tistory.com/172)
--[session](https://www.youtube.com/watch?v=tosLBcAX1vk)
 
 
