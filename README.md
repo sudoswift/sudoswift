@@ -65,5 +65,4 @@
 
 ## Notice
 -[Clang in Linuw](https://ggodong.tistory.com/172)
-- https://youtu.be/YjcqH027H2g
 
