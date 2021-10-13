@@ -65,7 +65,7 @@
 
 ## Notice
 - https://www.youtube.com/watch?v=4DxHX95Lq2U
--[Clang in Linuw](https://ggodong.tistory.com/172)
+- [Clang in Linuw](https://ggodong.tistory.com/172)
 
 
 
