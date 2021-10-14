@@ -64,8 +64,8 @@
  - [Notiocon cheat sheet](https://noticon.tammolo.com/)
 
 ## Notice
-- https://www.youtube.com/watch?v=4DxHX95Lq2U
 - [Clang in Linuw](https://ggodong.tistory.com/172)
+- https://www.youtube.com/watch?v=4DxHX95Lq2U
 
 
 
