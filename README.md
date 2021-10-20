@@ -70,5 +70,6 @@
 -  https://youtu.be/tiaTeOFjYJo
 -  [Django with React](https://www.youtube.com/watch?v=xjMP0hspNLE)
 -  [Axios](https://www.youtube.com/watch?v=16-1mTdGBoM)
+-  [Docker](https://youtu.be/EK6iYRCIjYs)
 
 
