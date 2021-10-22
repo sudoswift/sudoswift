@@ -70,5 +70,5 @@
 -  https://youtu.be/tiaTeOFjYJo
 -  [Django with React](https://www.youtube.com/watch?v=xjMP0hspNLE)
 -  [Docker](https://youtu.be/EK6iYRCIjYs)
-
+- [Python function](https://www.youtube.com/watch?app=desktop&v=zsfktX59MJc&feature=youtu.be)
 
