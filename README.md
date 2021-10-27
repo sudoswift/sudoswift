@@ -65,7 +65,6 @@
  - [Notiocon cheat sheet](https://noticon.tammolo.com/)
 
 ## Notice
-- [Clang in Linuw](https://ggodong.tistory.com/172)
 -  [Rest Api](https://www.youtube.com/watch?v=4DxHX95Lq2U)
 -  [Django with React](https://www.youtube.com/watch?v=xjMP0hspNLE)
 -  [Docker](https://youtu.be/EK6iYRCIjYs)
