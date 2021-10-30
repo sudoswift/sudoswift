@@ -68,4 +68,3 @@
 -  [Rest Api](https://www.youtube.com/watch?v=4DxHX95Lq2U)
 -  [Django with React](https://www.youtube.com/watch?v=xjMP0hspNLE)
 -  [SwiftUI color with NavigationView](https://gist.github.com/TuenTuenna/746b64815a8741af930b21f7d579a3a6)
-- https://youtu.be/0sMtoedWaf0
