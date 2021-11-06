@@ -42,6 +42,7 @@
  - Let's [Go](https://nomadcoders.co/go-for-beginners/lobby)
  - [Repository](https://github.com/sudoswift/golang)
  - [Main Page](https://golang.org/)
+ - [Course](https://www.youtube.com/watch?v=huvyxjwuBEQ)
 
 # Vapor
 
