@@ -68,7 +68,6 @@
  - [Notiocon cheat sheet](https://noticon.tammolo.com/)
 
 ## Notice
--  [Django with React](https://www.youtube.com/watch?v=xjMP0hspNLE)
 -  [SwiftUI color with NavigationView](https://gist.github.com/TuenTuenna/746b64815a8741af930b21f7d579a3a6)
 -  [Array](https://www.youtube.com/watch?v=NFETSCJON2M)
 -  [Chrome](https://www.youtube.com/watch?v=toXJLUa7i0Y)
