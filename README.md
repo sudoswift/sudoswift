@@ -18,7 +18,7 @@
  - [iPhone "Settings App" Clone Coding Project](https://github.com/sudoswift/SwiftUI_SettingsApp)
  - [iPhone "Kakao Talk App" Clone Coding Project](https://github.com/sudoswift/KakaoTalk)
  - [Course state](https://www.youtube.com/watch?v=1BjRFQCROoM)
- - [Swift grammer1(youtube)](https://www.youtube.com/watch?v=EXtpt5Skzck&list=PLgOlaPUIbynoqbQw_erl3L2w7vfOTCtFD)
+ - [Swift grammer1](https://www.youtube.com/watch?v=EXtpt5Skzck&list=PLgOlaPUIbynoqbQw_erl3L2w7vfOTCtFD)
  - [Swift grammer2(notion)](https://spangle-wedelia-2dc.notion.site/Swift-Tip-of-the-day-c428bfd990674bcfa2a4973e5d08c4eb)
 
 
