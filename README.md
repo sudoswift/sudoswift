@@ -72,7 +72,7 @@
 -  [Chrome](https://www.youtube.com/watch?v=toXJLUa7i0Y)
 -  [Http](https://www.youtube.com/playlist?list=PLuHgQVnccGMBd-v_DjNm61EBaDpYZSV1Z)
 -  [Apple Developer Academy](https://developeracademy.postech.ac.kr/)
--  [link](https://da-id.zoom.us/w/93919943949?tk=NrgYr-Hd_MnXmB6JopXWKEW3Mrw59MNufq9wAbSRqZU.DQMAAAAV3hCdDRZQOFk4dzg0c1NfeV9VRFhkUm5VRUhBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=L1NRTTBHOHJnUUJremlBSi8vRjBCdz09#success)
+-  [FAQ](https://developeracademy.postech.ac.kr/ko/faq-kr/)
 
 
 
