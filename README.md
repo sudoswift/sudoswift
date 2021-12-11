@@ -17,8 +17,6 @@
  - [SwiftUI LazyVGrid](https://github.com/sudoswift/SwiftUI_LazyVGrid)
  - [iPhone "Settings App" Clone Coding Project](https://github.com/sudoswift/SwiftUI_SettingsApp)
  - [iPhone "Kakao Talk App" Clone Coding Project](https://github.com/sudoswift/KakaoTalk)
- - [Course state](https://www.youtube.com/watch?v=1BjRFQCROoM)
- - [Swift grammer2(notion)](https://spangle-wedelia-2dc.notion.site/Swift-Tip-of-the-day-c428bfd990674bcfa2a4973e5d08c4eb)
 
 
 
@@ -67,9 +65,6 @@
  - [Notiocon cheat sheet](https://noticon.tammolo.com/)
 
 ## Notice
--  [SwiftUI color with NavigationView](https://gist.github.com/TuenTuenna/746b64815a8741af930b21f7d579a3a6)
--  [Array](https://www.youtube.com/watch?v=NFETSCJON2M)
--  [Chrome](https://www.youtube.com/watch?v=toXJLUa7i0Y)
 -  [Http](https://www.youtube.com/playlist?list=PLuHgQVnccGMBd-v_DjNm61EBaDpYZSV1Z)
 -  [Apple Developer Academy](https://developeracademy.postech.ac.kr/)
 -  [FAQ](https://developeracademy.postech.ac.kr/ko/faq-kr/)
