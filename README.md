@@ -4,19 +4,7 @@
 
  - from 2021/05/03
  - Check overall [HERE](https://github.com/sudoswift/SwiftUI_Practice)
- - [SwiftUI in iPad Playgrounds](https://www.notion.so/SwiftUI-in-iPad-Playgrounds-0689e74a8132493cb49c0f91d8b5dc4e)
- - [1st SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_1)
- - [2nd SwiftUI Clone Coding Project](https://github.com/sudoswift/SwiftUI_clone_coding_2)
- - [iPhone "Calculator App" Clone Coding Project](https://github.com/sudoswift/IPhone_Cal_CloneCoding)
- - [SwiftUI Custom Button Style](https://github.com/sudoswift/SwiftUI_ButtonStyle)
- - [SwiftUI TextField & SecureField](https://github.com/sudoswift/Text_Secure_Field)
- - [SwiftUI Toast & Popup](https://github.com/sudoswift/Toast_Popup_tutorial)
- - [SwiftUi Picker](https://github.com/sudoswift/SwiftUI_Picker)
- - [SwiftUI DeepLink](https://github.com/sudoswift/SwiftUI_DeepLink)
- - [SwiftUI Menu](https://github.com/sudoswift/SwiftUI_Menu)
- - [SwiftUI LazyVGrid](https://github.com/sudoswift/SwiftUI_LazyVGrid)
- - [iPhone "Settings App" Clone Coding Project](https://github.com/sudoswift/SwiftUI_SettingsApp)
- - [iPhone "Kakao Talk App" Clone Coding Project](https://github.com/sudoswift/KakaoTalk)
+
 
 
 
