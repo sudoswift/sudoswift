@@ -17,6 +17,7 @@
  - [Python Course 1](https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
  - [Python Course 2](https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5)
  - [Air BnB Clone Coding](https://github.com/sudoswift/airbnb)
+ - [CRUD](https://github.com/sudoswift/django_CRUD)
 
 # <img src ="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568175385/noticon/iodu1jssf0kwe4oie2dt.png" width="50rem" height="50rem">
 
