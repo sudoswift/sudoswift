@@ -55,9 +55,7 @@
 ## Notice
 -  [Http](https://www.youtube.com/playlist?list=PLuHgQVnccGMBd-v_DjNm61EBaDpYZSV1Z)
 -  [Apple Developer Academy](https://developeracademy.postech.ac.kr/)
--  [FAQ](https://developeracademy.postech.ac.kr/ko/faq-kr/)
 -  [swift](https://www.youtube.com/watch?v=pUYw9D0aq6g&list=LL&index=1&t=78s)
--  [Django-Course](https://www.youtube.com/watch?v=pbKhn2ten9I&list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG)
 
 
 
