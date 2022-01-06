@@ -14,8 +14,8 @@
  - [Here](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
  - [Django tutorial clone-coding](https://github.com/sudoswift/Djangoo)
  - [Django Youtube clone coding](https://github.com/sudoswift/django2)
- - [Air BnB Clone Coding](https://github.com/sudoswift/airbnb)
  - [CRUD](https://github.com/sudoswift/django_CRUD)
+ - [bnb](https://github.com/sudoswift/bnb)
 
 # <img src ="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568175385/noticon/iodu1jssf0kwe4oie2dt.png" width="50rem" height="50rem">
 
