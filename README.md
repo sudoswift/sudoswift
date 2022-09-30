@@ -53,7 +53,6 @@
 
 ## Notice
 -  [Http](https://www.youtube.com/playlist?list=PLuHgQVnccGMBd-v_DjNm61EBaDpYZSV1Z)
--  [Apple Developer Academy](https://developeracademy.postech.ac.kr/)
 -  [swift](https://www.youtube.com/watch?v=pUYw9D0aq6g&list=LL&index=1&t=78s)
 
 
